@@ -2,7 +2,7 @@
 This is an overview of the research my group and I explored in our Psychology 121 class. We looked at the relationship of color on memory and recall. 
 
 
-Introduction 
+Introduction <br>
 Marketing tactics employ a variety of strategies in order to win consumer’s attention and increase sales. One specific strategy includes manipulating color to produce the most bold and eye-catching advertisement. Interestingly, color contrast or a change in color significantly enhances consumers’ ability to recall advertisements (Donthu et al.,1993). Researchers found that changing background color when presenting words to participants induces a significant context effect thus increasing the total number of words recalled (Isarida & Isarida, 2007). Another factor which influences an advertisement’s ability to be recalled is the association between color and emotion. Research has shown that positively associated colors like green are able to positively enhance participants’ mood (Kaya & Epps, 2004). Conversely, negatively associated colors like red produce an opposite effect. In terms of marketing, the positive or negative mood produced by strategically selected colors may enhance consumer’s recall. Furthermore, this study was designed to fill the holes in research and establish the relationship between font color and memory. As mentioned earlier, there is a significant effect between color and memory such that a change in color enhances memory. However, not much research has been conducted on this effect with the use of font color. This study aims to determine if a change in font color enhances memory. More specifically, we will examine the influence of positive and negative color associations through the use of a font color change on memory. 
 
 
